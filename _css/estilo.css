@@ -2,25 +2,25 @@ body {
     background: rgb(110, 255, 156);
     font: 15px normal Arial;
 }
-
-menu {
-    text-shadow: 1pt 1pt green;
-}
-
 div {
     background: white;
-    padding: 10px;
-    margin: 10px 200px 10px 200px;
+    border-radius: 15px;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    padding: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
 }
-div#title {
-    display:inline;
-    margin-bottom: 0px;
-    padding: 0px;
+
+input#butao {
+    width: 100px;
+    margin-top: 10px;
+    padding: 5px;
 }
 h2#credits {
     display: inline;
     padding-top: 0px;
     margin-top: 0px;
     color: black;
-    font: 12px normal Arial;
+    font: 10px normal Arial;
 }

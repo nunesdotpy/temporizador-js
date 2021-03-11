@@ -44,6 +44,8 @@ div#button {
 input#butao{
     width: 150px;
     padding: 5px;
+    background: rgb(185, 253, 206);
+    border-radius: 5pt;
 }
 
 footer{

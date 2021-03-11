@@ -1,0 +1,21 @@
+body {
+    background: rgb(185, 253, 206);
+    font: 15px normal Arial;
+}
+div {
+    background: white;
+    padding: 10px;
+    margin: 10px 200px 10px 200px;
+}
+div#title {
+    display:inline;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+h2#credits {
+    display: inline;
+    padding-top: 0px;
+    margin-top: 0px;
+    color: black;
+    font: 10px normal Arial;
+}

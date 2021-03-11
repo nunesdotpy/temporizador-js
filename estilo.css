@@ -19,18 +19,30 @@ section {
     padding-bottom: 10px;
 }
 
+div#itxt {
+    height: 35px;
+}
+
+input#inptxt{
+    text-align: left;
+    color: rgba(0, 0, 0, .5);
+}
+
 p#txt {
     text-align: justify;
-    padding-bottom: 50px;
+    padding-bottom: 2px;
+}
+
+input#inptxt {
+    padding: 2px;
 }
 
 div#button {
-    padding-top: 10px;
-
+    padding-top: 15px;
 }
 
 input#butao{
-    width: 100px;
+    width: 150px;
     padding: 5px;
 }
 

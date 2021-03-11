@@ -1,20 +1,8 @@
 body {
-<<<<<<< HEAD
     background: rgb(110, 255, 156);
     font: 15px normal Arial;
 }
 div {
-=======
-    background: rgb(185, 253, 206);
-    font: 15px normal Arial;
-}
-
-header {
-    text-align: center;
-}
-
-section {
->>>>>>> html
     background: white;
     border-radius: 15px;
     width: 500px;
@@ -29,17 +17,10 @@ input#butao {
     margin-top: 10px;
     padding: 5px;
 }
-<<<<<<< HEAD
 h2#credits {
     display: inline;
     padding-top: 0px;
     margin-top: 0px;
     color: black;
     font: 10px normal Arial;
-=======
-
-footer{
-    padding-top: 20px;
-    text-align: center;
->>>>>>> html
 }

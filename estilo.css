@@ -15,11 +15,22 @@ section {
     margin: auto;
     padding: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+    text-align: center;
+    padding-bottom: 10px;
 }
 
-input#butao {
+p#txt {
+    text-align: justify;
+    padding-bottom: 50px;
+}
+
+div#button {
+    padding-top: 10px;
+
+}
+
+input#butao{
     width: 100px;
-    margin-top: 10px;
     padding: 5px;
 }
 

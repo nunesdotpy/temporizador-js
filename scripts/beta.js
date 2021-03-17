@@ -7,4 +7,5 @@ function opcoes(){
 function limparBarra(){
     var barra = document.getElementById('inptxt')
     barra.value = ''
+    barra.fontsize = '50px'
 }
